@@ -1,0 +1,19 @@
+html, body {
+	height: 100%;
+	margin: 0;
+}
+
+#header {
+	min-height: 100%;
+	background: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+}
+
+#playButton {
+	width: 100px;
+	margin-left: auto;
+	margin-right: auto;
+}
