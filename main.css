@@ -4,7 +4,7 @@ html, body {
 }
 
 #header {
-	min-height: 100%;
+	min-height: 90%;
 	background: white;
 	display: flex;
 	flex-direction: column;
@@ -12,7 +12,7 @@ html, body {
 	text-align: center;
 }
 
-#playButton {
+button {
 	width: 100px;
 	margin-left: auto;
 	margin-right: auto;
